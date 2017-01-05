@@ -1,0 +1,10 @@
+.swatch-input {
+    left: -1000px;
+    position: absolute;
+    visibility: hidden;
+}
+
+ .swatch-option-link-layered:focus > div {
+     box-shadow: 0 0 3px 1px #68a8e0;
+ }
+ 
