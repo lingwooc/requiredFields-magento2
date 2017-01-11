@@ -200,7 +200,10 @@ define([
             onlyMainImg: false,
 
             // whether swatches are rendered in product list or on product page
-            inProductList: false
+            inProductList: false,
+
+            // sly-old-price block selector
+            slyOldPriceSelector: '.sly-old-price'
         },
 
         /**
